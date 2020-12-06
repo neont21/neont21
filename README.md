@@ -1,7 +1,5 @@
 # 정백금 Pt J
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=neont21&show_icons=true&title_color=dd4814&icon_color=dd4814&bg_color=772953&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
-
 [![velog:@peeeeeter_j](image/link_velog.png)](https://velog.io/@peeeeeter_j)
 
 [![facebook:@peeeeeterj](image/link_facebook.png)](https://facebook.com/peeeeeterj)
@@ -12,6 +10,7 @@
 
 [![linkedin:@pt78](image/link_linkedin.png)](https://linkedin.com/in/pt78)
 
+[![github stats](https://github-readme-stats.vercel.app/api?username=neont21&show_icons=true&title_color=dd4814&icon_color=dd4814&bg_color=772953&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 Using... **Focal Fossa** *[[Ubuntu20.04](https://launchpad.net/ubuntu)]*
 
