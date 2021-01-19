@@ -12,5 +12,10 @@
 
 ---
 
-[![IBM Quantum Challenge Fall 2020](https://images.youracclaim.com/size/340x340/images/70794c94-2466-4fc0-b1aa-860fa5143efa/IBM_Quantum_Challenge_Fall_2020_Achievement_-_Foundational.png)](https://www.youracclaim.com/badges/570034d1-b613-4de1-8e30-d0cdb2e78a35?source=linked_in_profile)
+<details>
+<summary>
+  What I did...✨
+</summary>
+  <a href='ttps://www.youracclaim.com/badges/570034d1-b613-4de1-8e30-d0cdb2e78a35?source=linked_in_profile'><img src='https://images.youracclaim.com/size/340x340/images/70794c94-2466-4fc0-b1aa-860fa5143efa/IBM_Quantum_Challenge_Fall_2020_Achievement_-_Foundational.png'></img></a>&nbsp;
+</details>
 
