@@ -1,17 +1,16 @@
 # 정백금 Pt J
 
-[![velog:@peeeeeter_j](image/link_velog.png)](https://velog.io/@peeeeeter_j)
-
-[![facebook:@peeeeeterj](image/link_facebook.png)](https://facebook.com/peeeeeterj)
-
-[![twitter:@peeeeeter_j](image/link_twitter.png)](https://twitter.com/peeeeeter_j)
-
-[![launchpad:@edenjint3927](image/link_launchpad.png)](https://launchpad.net/~edenjint3927)
-
-[![linkedin:@pt78](image/link_linkedin.png)](https://linkedin.com/in/pt78)
+<a href='https://velog.io/@peeeeeter_j'><img src='image/logo_velog.png'></img></a>&nbsp;
+<a href='https://facebook.com/peeeeeterj'><img src='image/logo_facebook.png'></img></a>&nbsp;
+<a href='https://twitter.com/peeeeeter_j'><img src='image/logo_twitter.png'></img></a>&nbsp;
+<a href='https://launchpad.net/~edenjint3927'><img src='image/logo_launchpad.png'></img></a>&nbsp;
+<a href='https://linkedin.com/in/pt78'><img src='image/logo_linkedin.png'></img></a>&nbsp;
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=neont21&show_icons=true&title_color=dd4814&icon_color=dd4814&bg_color=772953&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
-Using... **Focal Fossa** *[[Ubuntu20.04](https://launchpad.net/ubuntu)]*
-
 🐧 **Tux** the penguin X 🦀 **Ferris** the crab
+
+---
+
+[![IBM Quantum Challenge Fall 2020](https://images.youracclaim.com/size/340x340/images/70794c94-2466-4fc0-b1aa-860fa5143efa/IBM_Quantum_Challenge_Fall_2020_Achievement_-_Foundational.png)](https://www.youracclaim.com/badges/570034d1-b613-4de1-8e30-d0cdb2e78a35?source=linked_in_profile)
+
