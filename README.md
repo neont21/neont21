@@ -8,6 +8,7 @@
 <a href='https://linkedin.com/in/pt78'><img src='image/logo_linkedin.png'></img></a>&nbsp;
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=neont21&show_icons=true&title_color=dd4814&icon_color=dd4814&bg_color=772953&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=neont21&layout=compact&langs_count=6&title_color=dd4814&icon_color=dd4814&bg_color=772953&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 🐧 **Tux** the penguin X 🦀 **Ferris** the crab
 
