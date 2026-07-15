@@ -1,26 +1,18 @@
 # [Joowon Jung](https://neont21.github.io)
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=neont21&show_icons=true&title_color=dd4814&icon_color=dd4814&bg_color=135deg,1f1f1f,772953&text_color=ffffff&locale=kr&show=prs_merged_percentage&hide=contribs&hide_title=true&hide_rank=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=neont21&layout=compact&langs_count=6&title_color=dd4814&icon_color=dd4814&bg_color=135deg,1f1f1f,772953&text_color=ffffff&locale=kr&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neont21&theme=default)&nbsp;&nbsp;&nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neont21&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neont21&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=neont21&theme=default)
 
 ---
 
-## 요즘 살아가는 이야기 a.k.a. Daniil [정단휘]
+## 블로그 기록
 
-- [브런치스토리 @danhwi](https://brunch.co.kr/@danhwi)
-- [투비컨티뉴드 @danhwi](https://tobe.aladin.co.kr/t/danhwi)
-- [다양한 활동들](https://litt.ly/edenjint3927)
-- [다양한 이야기들](https://litt.ly/danhwi)
+> ### 《SeSAC 학습 일지: Flutter @용산캠퍼스》
+> [![](https://velog.velcdn.com/images/peeeeeter_j/post/ab8ed1be-454d-4f2f-8fc5-08075673cdd5/image.png)](https://velog.io/@peeeeeter_j/series/sesac-2026-flutter)
 
-## 언젠가의 흔적들 a.k.a. Pt J [정백금]
-
-아래 링크들은 legacy로, **더 이상 업데이트되고 있지 않습니다**.
-
-- [벨로그 @peeeeeter_j](https://velog.io/@peeeeeter_j)
-- [트위터 @peeeeeter_j](https://twitter.com/peeeeeter_j)
-- [런치패드 @edenjint3927](https://launchpad.net/~edenjint3927)
-- [링크드인 @pt78](https://linkedin.com/in/pt78)
+> ### 《Rust와 Python을 활용한 백엔드 공부》
+>[![](https://velog.velcdn.com/images/peeeeeter_j/post/2ae052de-cc3d-4396-bcaa-80f00464e0a4/image.PNG)](https://velog.io/@peeeeeter_j/series/backend-with-rust-and-python)
 
 ---
 
